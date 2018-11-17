@@ -1,4 +1,4 @@
-**This is no longer maintained, active development is in (openelec)[https://github.com/carderne/openelec]**
+**This is no longer maintained, active development is in [openelec](https://github.com/carderne/openelec)**
 
 ## electrification-planner
 [![Build Status](https://travis-ci.org/carderne/electrification-planner.svg?branch=master)](https://travis-ci.org/carderne/electrification-planner)
